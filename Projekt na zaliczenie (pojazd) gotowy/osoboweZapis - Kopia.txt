@@ -1,0 +1,34 @@
+Samochód/Opel/Bananowy/1999/320000/260000
+Samochód/Opel/Jagodowy/2000/320000/96000
+Samochód/Opel/Truskawkowy/2007/170000/140000
+Samochód/Opel/Kokosowy/2004/234000/320000
+Samochód/Skoda/Bananowy/1999/320000/96000
+Samochód/Skoda/Jagodowy/2007/170000/260000
+Samochód/Skoda/Truskawkowy/2004/234000/96000
+Samochód/Skoda/Kokosowy/2015/20000/320000
+Samochód/Skoda/Jab³kowy/2004/234000/260000
+Samochód/Skoda/Czereœniowy/2013/75000/140000
+Samochód/Skoda/Zgni³y Bambus/2013/75000/320000
+Samochód/Mercedes/Bananowy/1999/234000/96000
+Samochód/Mercedes/Jagodowy/2015/20000/260000
+Samochód/Mercedes/Truskawkowy/2013/75000/96000
+Samochód/Mercedes/Kokosowy/1999/234000/140000
+Samochód/Mercedes/Jab³kowy/2007/170000/140000
+Samochód/Mercedes/Czereœniowy/2013/75000/96000
+Samochód/Mercedes/Zgni³y Bambus/2013/75000/96000
+Samochód/Toyota/Bananowy/2000/320000/260000
+Samochód/Toyota/Jagodowy/1999/320000/140000
+Samochód/Toyota/Truskawkowy/2013/75000/260000
+Samochód/Toyota/Kokosowy/2015/20000/320000
+Samochód/Toyota/Jab³kowy/1999/320000/320000
+Samochód/Lexus/Bananowy/2000/320000/260000
+Samochód/Lexus/Jagodowy/2015/0/1200000
+Motor/Toyota/Jab³kowy/2015/16000/120000
+Motor/Toyota/Jab³kowy/2015/17000/120000
+Motor/Toyota/Bananowy/2015/18000/99000
+Motor/Toyota/Jab³kowy/2015/13000/99000
+Motor/Skoda/Bananowy/2000/130000/99000
+Motor/Skoda/Bananowy/2000/130000/112000
+Motor/Skoda/Jagodowy/2000/150000/120000
+Motor/Opel/Jagodowy/2013/22000/130000
+Motor/Opel/Jagodowy/2013/21000/82000

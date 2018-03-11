@@ -1,0 +1,16 @@
+Ciê¿arówka/Citroen/Mad Dog/2013/260000/140000/3.5
+Ciê¿arówka/Citroen/The Unwritten Law/2013/260000/140000/3.5
+Ciê¿arówka/Citroen/Under the Gun/2013/260000/140000/3.5
+Ciê¿arówka/Renault/King of Dreams/2013/260000/140000/3.5
+Ciê¿arówka/Renault/Lithium/2015/260000/180000/3.5
+Ciê¿arówka/Renault/All Apologies/2015/260000/180000/3.5
+Ciê¿arówka/Fiat/The Man Who/2015/260000/180000/3.5
+Ciê¿arówka/Fiat/Sold The World/2015/260000/180000/3.5
+Ciê¿arówka/Ford/Smells Like/2016/260000/180000/3.5
+Tir/Citroen/Teen Spirit/2016/130000/420000/18.0
+Tir/Citroen/In The Air/2016/130000/420000/18.0
+Tir/Renault/Tonight/2016/130000/420000/24.0
+Tir/Renault/Another Day/2017/125000/420000/24.0
+Tir/Fiat/In Paradise/2017/125000/530000/24.0
+Tir/Fiat/I Missed Again/2017/125000/530000/24.0
+Tir/Ford/One/2017/130000/530000/24.0
